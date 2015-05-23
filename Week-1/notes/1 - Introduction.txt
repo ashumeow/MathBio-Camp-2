@@ -1,0 +1,13 @@
+1. Hypothesis testing
+--- This deals with making decisions using data.
+--- A null hypothesis represents the status quo that is usually labelled as H0.
+
+2. General rules
+
+3. Notes
+
+4. Two sided tests
+
+5. Confidence intervals
+
+6. P-values
